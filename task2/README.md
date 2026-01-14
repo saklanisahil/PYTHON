@@ -1,7 +1,5 @@
-# Assignment 2 – Module 3: Control Structures in Python
+# Assignment 2 
 
-This repository contains two Python programs that demonstrate the use of **control structures** such as **if-else statements** and **loops** in Python.  
-Both tasks are part of **Assignment 2** for *Module 3: Control Structures in Python*.
 
 ---
 
