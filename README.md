@@ -5,7 +5,7 @@ This repository contains simple Python programs designed to perform basic operat
 
 ---
 
-##  Task 1: Perform Basic Mathematical Operations
+##  Task 1.1: Perform Basic Mathematical Operations
 
 ### **Problem Statement**
 Write a Python program that:
@@ -28,7 +28,7 @@ Division: 2.0
 
 ---
 
-##  Task 2: Create a Personalized Greeting
+##  Task 1.2: Create a Personalized Greeting
 
 ### **Problem Statement**
 Write a Python program that:
@@ -60,4 +60,72 @@ Hello, Sahil Saklani! Welcome to Python programming.
 4. Run the scripts using:
    ```bash
    python assignment1.py
+
+
+   🧩 Task 2.1:  Check if a Number is Even or Odd
+📄 Problem Statement
+
+Write a Python program that:
+
+Takes an integer input from the user.
+
+Checks whether the number is even or odd using an if-else statement.
+
+Displays the result accordingly.
+
+💻 Code Explanation
+
+The program takes input from the user using input().
+
+It checks if the number is divisible by 2 using the modulus operator %.
+
+If the number is divisible by 2, it prints "Even", otherwise it prints "Odd".
+
+🧠 Concepts Used
+
+Conditional statements (if-else)
+
+Arithmetic operator (%)
+
+User input and output
+
+Terminal operator
+
+
+
+
+🔢 Task 2.2: Sum of Integers from 1 to N Using a Loop
+📄 Problem Statement
+
+Write a Python program that:
+
+Uses a for loop to iterate over numbers from 1 up to 50.
+
+Calculates the sum of all integers in this range.
+
+Displays the final sum.
+
+💻 Code Explanation
+
+The program initializes a variable total = 0.
+
+It takes input n (the upper limit) from the user.
+
+Using a for loop, it iterates from 1 to n and keeps adding each number to total.
+
+Finally, it displays the total sum.
+
+🧠 Concepts Used
+
+Loops (for)
+
+Arithmetic addition (+=)
+
+Range function
+
+User input and output
+
+I used the range to take input from user and find the sum of all the digits instead of only 50 digits 
+
+
 
