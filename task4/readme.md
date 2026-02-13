@@ -19,8 +19,6 @@ There’s also a commented-out section that can **create the file** automaticall
 ---
 
 
-finally:
-    print("Completed successfully.")
 
 
 TASK 2 
